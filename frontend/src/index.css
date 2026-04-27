@@ -1,0 +1,9 @@
+/**
+ * Global base styles. Typography is driven by MUI theme (Poppins);
+ * this keeps native elements consistent when not wrapped by MUI.
+ */
+html,
+body,
+#root {
+  font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
