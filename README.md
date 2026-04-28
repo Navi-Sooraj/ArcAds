@@ -116,7 +116,7 @@ VALUES ('admin@arcads.com', 'admin123', 'Super Admin', 'admin', NOW(), NOW());
 <div align="center">
 
 <h3>Landing Page</h3>
-<img src="./Repo/landing_page.png" width="80%"/>
+<img src="./screenshots/landing_page.png" width="80%"/>
 
 <br/><br/>
 
@@ -124,17 +124,17 @@ VALUES ('admin@arcads.com', 'admin123', 'Super Admin', 'admin', NOW(), NOW());
   <tr>
     <td align="center">
       <b>Sign In</b><br/>
-      <img src="./Repo/Sign-in_page.png" width="90%"/>
+      <img src="./screenshots/Sign-in_page.png" width="90%"/>
     </td>
     <td align="center">
       <b>Sign Up</b><br/>
-      <img src="./Repo/Sign-up_page.png" width="90%"/>
+      <img src="./screenshots/Sign-up_page.png" width="90%"/>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <b>Ad Service Page</b><br/>
-      <img src="./Repo/Ad-service_page.png" width="60%"/>
+      <img src="./screenshots/Ad-service_page.png" width="60%"/>
     </td>
   </tr>
 </table>
