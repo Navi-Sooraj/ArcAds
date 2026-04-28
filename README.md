@@ -113,18 +113,33 @@ VALUES ('admin@arcads.com', 'admin123', 'Super Admin', 'admin', NOW(), NOW());
 
 ## 📸 Preview
 
+## 📸 Preview
+
 <div align="center">
-  **Landing page**
-  <img src="./Repo/landing_page.png" alt="Landing Page" width="45%">
-  &nbsp;
-  **Sign-in**
-  <img src="./Repo/Sign-in_page.png" alt="Sign In Page" width="45%">
-  <br/>
-  <br/>
-  **Sign-up**
-  <img src="./Repo/Sign-up_page.png" alt="Sign Up Page" width="45%">
-  &nbsp;
-  **Ad Service page**
-  <img src="./Repo/Ad-service_page.png" alt="Sign Up Page" width="45%">
+
+<h3>Landing Page</h3>
+<img src="./Repo/landing_page.png" width="80%"/>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Sign In</b><br/>
+      <img src="./Repo/Sign-in_page.png" width="90%"/>
+    </td>
+    <td align="center">
+      <b>Sign Up</b><br/>
+      <img src="./Repo/Sign-up_page.png" width="90%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <b>Ad Service Page</b><br/>
+      <img src="./Repo/Ad-service_page.png" width="60%"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
