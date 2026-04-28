@@ -113,8 +113,6 @@ VALUES ('admin@arcads.com', 'admin123', 'Super Admin', 'admin', NOW(), NOW());
 
 ## 📸 Preview
 
-## 📸 Preview
-
 <div align="center">
 
 <h3>Landing Page</h3>
