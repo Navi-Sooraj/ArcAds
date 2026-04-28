@@ -114,7 +114,7 @@ VALUES ('admin@arcads.com', 'admin123', 'Super Admin', 'admin', NOW(), NOW());
 ## 📸 Preview
 
 <div align="center">
-  <img src="./Repo/landing_page.png" alt="Landing Page" width="450%">
+  <img src="./Repo/landing_page.png" alt="Landing Page" width="45%">
   &nbsp;
   <img src="./Repo/Sign-in_page.png" alt="Sign In Page" width="45%">
   <br/>
