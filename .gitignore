@@ -9,3 +9,5 @@ frontend/.env
 
 frontend/tmp_response.json
 DB.sql
+
+Backend/uploads/
