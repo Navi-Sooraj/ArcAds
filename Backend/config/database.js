@@ -12,6 +12,8 @@ const dbPassword = process.env.DB_PASSWORD || 'myaxl';
 const dbHost = process.env.DB_HOST || 'localhost';
 const dbPort = process.env.DB_PORT || 3306;
 
+const useSSL = process.env.DB_SSL === 'true';
+
 export const sequelize = new Sequelize(dbName, dbUser, dbPassword, {
   host: dbHost,
   port: dbPort,
@@ -28,6 +30,13 @@ export const sequelize = new Sequelize(dbName, dbUser, dbPassword, {
     underscored: false,
     freezeTableName: true,
   },
+  ...(useSSL && {
+    dialectOptions: {
+      ssl: {
+        rejectUnauthorized: false,
+      },
+    },
+  }),
 });
 
 export async function connectDatabase() {
